@@ -1,0 +1,26 @@
+{
+  "name": "@microcode/debug-ng",
+  "version": "1.0.0",
+  "description": "Extensions to the debug package to allow for more granularity",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/microcode/debug-ng.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/microcode/debug-ng/issues"
+  },
+  "homepage": "https://github.com/microcode/debug-ng#readme",
+  "dependencies": {
+    "debug": "^3.1.0",
+    "lodash.isfunction": "^3.0.9"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
