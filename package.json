@@ -1,6 +1,6 @@
 {
   "name": "@microcode/debug-ng",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Extensions to the debug package to allow for more granularity",
   "main": "index.js",
   "scripts": {

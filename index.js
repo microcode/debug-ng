@@ -43,6 +43,6 @@ for (let name of Object.keys(debug)) {
 createDebug.level = set_level;
 
 // default to env setting
-set_level(process.env['DEBUG_LEVEL']);
+set_level(process.env['DEBUG_LEVEL'] || 'info');
 
 module.exports = createDebug;
