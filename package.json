@@ -1,6 +1,6 @@
 {
   "name": "@microcode/debug-ng",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Extensions to the debug package to allow for more granularity",
   "main": "index.js",
   "scripts": {
@@ -17,10 +17,10 @@
   },
   "homepage": "https://github.com/microcode/debug-ng#readme",
   "dependencies": {
-    "debug": "^4.1.0",
+    "debug": "^4.1.1",
     "lodash.isfunction": "^3.0.9"
   },
   "devDependencies": {
-    "mocha": "^5.2.0"
+    "mocha": "^7.1.1"
   }
 }
